@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ebaad.hanif\\desktop\\pafmetaverse\\plugins\\runtimemodelsimporter\\source\\runtimemodelsimporter\\private\\runtimemodelsimporter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ebaad.hanif\\desktop\\pafmetaverse\\intermediate\\build\\win64\\x64\\pafmetaverse\\development\\engine\\sharedpch.engine.project.rtti.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ebaad.hanif\\desktop\\pafmetaverse\\plugins\\runtimemodelsimporter\\intermediate\\build\\win64\\x64\\unrealgame\\development\\runtimemodelsimporter\\definitions.runtimemodelsimporter.h",
+            "c:\\users\\ebaad.hanif\\desktop\\pafmetaverse\\plugins\\runtimemodelsimporter\\source\\runtimemodelsimporter\\public\\runtimemodelsimporter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

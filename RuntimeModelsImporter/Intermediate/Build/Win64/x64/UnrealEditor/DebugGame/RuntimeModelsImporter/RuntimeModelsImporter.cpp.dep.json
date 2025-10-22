@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\runtimemodelsimporter\\source\\runtimemodelsimporter\\private\\runtimemodelsimporter.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\intermediate\\build\\win64\\x64\\pafmetaverseeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.rtti.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\runtimemodelsimporter\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\runtimemodelsimporter\\definitions.runtimemodelsimporter.h",
+            "c:\\unreal projects\\migrating to 5.6\\pafmetaverse\\plugins\\runtimemodelsimporter\\source\\runtimemodelsimporter\\public\\runtimemodelsimporter.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

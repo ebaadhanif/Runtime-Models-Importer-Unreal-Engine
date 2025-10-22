@@ -1,0 +1,52 @@
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Source/RuntimeModelsImporter/Private/AssimpRuntime3DModelsImporter.cpp"
+@"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealGame/Development/RuntimeModelsImporter/RuntimeModelsImporter.Shared.rsp"
+/FI"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Intermediate/Build/Win64/x64/PAFMetaVerse/Development/Engine/SharedPCH.Engine.Project.RTTI.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealGame/Development/RuntimeModelsImporter/Definitions.RuntimeModelsImporter.h"
+/Yu"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Intermediate/Build/Win64/x64/PAFMetaVerse/Development/Engine/SharedPCH.Engine.Project.RTTI.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Intermediate/Build/Win64/x64/PAFMetaVerse/Development/Engine/SharedPCH.Engine.Project.RTTI.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealGame/Development/RuntimeModelsImporter/AssimpRuntime3DModelsImporter.cpp.obj"
+/experimental:log "C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealGame/Development/RuntimeModelsImporter/AssimpRuntime3DModelsImporter.cpp.sarif"
+/sourceDependencies "C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealGame/Development/RuntimeModelsImporter/AssimpRuntime3DModelsImporter.cpp.dep.json"
+/d2ssa-cfg-question-
+/Zc:inline
+/nologo
+/Oi
+/FC
+/diagnostics:caret
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/D_HAS_EXCEPTIONS=0
+/DPLATFORM_EXCEPTIONS_DISABLED=1
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/W4
+/we4456
+/we4458
+/we4459
+/wd4244
+/wd4838
+/TP
+/GR
+/std:c++20
+/Zc:preprocessor
+/wd5054

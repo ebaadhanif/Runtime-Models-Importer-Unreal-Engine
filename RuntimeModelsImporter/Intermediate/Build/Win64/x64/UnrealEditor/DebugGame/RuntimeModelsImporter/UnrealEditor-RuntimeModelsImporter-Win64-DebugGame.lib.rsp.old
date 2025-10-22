@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuntimeModelsImporter-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Intermediate/Build/Win64/x64/PAFMetaVerseEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.RTTI.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/RuntimeModelsImporter/Module.RuntimeModelsImporter.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/RuntimeModelsImporter/AssimpRuntime3DModelsImporter.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/RuntimeModelsImporter/RuntimeModelsImporter.cpp.obj"
+"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/RuntimeModelsImporter/Default.rc2.res"
+/OUT:"C:/Unreal Projects/Migrating to 5.6/PAFMetaVerse/Plugins/RuntimeModelsImporter/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/RuntimeModelsImporter/UnrealEditor-RuntimeModelsImporter-Win64-DebugGame.lib"

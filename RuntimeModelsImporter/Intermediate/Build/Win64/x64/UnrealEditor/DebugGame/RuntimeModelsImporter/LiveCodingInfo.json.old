@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.RuntimeModelsImporter.cpp.obj": [
+			"AssimpRuntime3DModelsImporter.gen.cpp.obj",
+			"RuntimeModelsImporter.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"AssimpRuntime3DModelsImporter.cpp.obj",
+			"RuntimeModelsImporter.cpp.obj"
+		]
+	}
+}

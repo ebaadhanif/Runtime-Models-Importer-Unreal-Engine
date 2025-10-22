@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RuntimeModelsImporter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Ebaad\Azure\PAF_Metaverse_Git\PAFMetaVerse\Intermediate\Build\Win64\x64\PAFMetaVerseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.RTTI.ValApi.Cpp20.h.obj"
+"D:\Ebaad\Azure\PAF_Metaverse_Git\PAFMetaVerse\Plugins\RuntimeModelsImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeModelsImporter\Module.RuntimeModelsImporter.cpp.obj"
+"D:\Ebaad\Azure\PAF_Metaverse_Git\PAFMetaVerse\Plugins\RuntimeModelsImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeModelsImporter\Default.rc2.res"
+/OUT:"D:\Ebaad\Azure\PAF_Metaverse_Git\PAFMetaVerse\Plugins\RuntimeModelsImporter\Intermediate\Build\Win64\x64\UnrealEditor\Development\RuntimeModelsImporter\UnrealEditor-RuntimeModelsImporter.lib"
