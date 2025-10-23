@@ -1,0 +1,1 @@
+A plugin that is a kind of wrapper on ASSIMP DLLS and Libs for unreal engine, Everything is already setup in this plugin regarding Assimp, USer jsut needs to call the function importmodel and TADA, the model will be spawned on desired location in scene with support of runtime as Unreal Engine currently has no support for model Importing in runtime
